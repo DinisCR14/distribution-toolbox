@@ -6,6 +6,8 @@ An interactive web application for exploring probability distributions through n
 
 <a href="https://dt-magentakoncept.pythonanywhere.com/" target="_blank" rel="noopener noreferrer"><strong>Launch Distribution Toolbox</strong></a>
 
+To keep this GitHub page open, Command-click (macOS) or Ctrl-click (Windows/Linux) the link to open the application in a new tab.
+
 The application is hosted online and opens as a standalone web app.
 
 ## About
