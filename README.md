@@ -4,7 +4,7 @@ An interactive web application for exploring probability distributions through n
 
 ## Open the application
 
-[**Launch Distribution Toolbox**](https://dt-magentakoncept.pythonanywhere.com/)
+<a href="https://dt-magentakoncept.pythonanywhere.com/" target="_blank" rel="noopener noreferrer"><strong>Launch Distribution Toolbox</strong></a>
 
 The application is hosted online and opens as a standalone web app.
 
